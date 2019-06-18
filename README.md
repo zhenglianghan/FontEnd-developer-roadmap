@@ -72,6 +72,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
            * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
            * [SuperAgent](https://visionmedia.github.io/superagent/)
            * [axios](https://github.com/axios/axios)
+           * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
         2. GraphQL
            * [Apollo](https://www.apollographql.com/docs/react/)
            * [Relay](https://facebook.github.io/relay/)
@@ -119,10 +120,18 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Electron](https://electronjs.org/)
     * [NW.js](https://nwjs.io/)
     * [Vuido](https://vuido.mimec.org/)
-16. CGI
-    * [node.js](https://nodejs.org/en/)
-    * [python](https://www.python.org/)
-    * [PHP](https://www.php.net/)
+
+16. Chart
+    * [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+    * [Echarts](https://www.echartsjs.com/index.html)
+    * [Chart.js](https://www.chartjs.org/)
+17. CGI
+    1. [node.js](https://nodejs.org/en/)
+        * [Koa2](https://koa.bootcss.com/)
+        * [egg](https://eggjs.org/)
+        * [express](http://expressjs.com/)
+    2. [python](https://www.python.org/)
+    3. [PHP](https://www.php.net/)
 ## Wrap Up
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
